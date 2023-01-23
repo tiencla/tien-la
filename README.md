@@ -1,7 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tien+La)](https://git.io/typing-svg)
 
 
-Technologies Used:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/tienla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nickaguila/" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3>Technologies Used:</h3>
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,3 +27,5 @@ Technologies Used:
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+
+![](https://komarev.com/ghpvc/?username=tiencla&label=Profile%20views&color=0eb44d&style=flat)
